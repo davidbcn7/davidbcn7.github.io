@@ -35,7 +35,7 @@ nav ul li a{
     text-transform: uppercase;
 }
 ul{
-    font-family: Ubuntu, "times new roman", times, roman, serif;
+    font-family: 'Quattrocento Sans', sans-serif;
 }
 li a.active, li a:hover{
     background: #ebebe0;
