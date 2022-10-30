@@ -38,7 +38,7 @@ ul{
     font-family: Ubuntu, "times new roman", times, roman, serif;
 }
 li a.active, li a:hover{
-    background: #d9d9d2;
+    background: ##ebebe0;
     transition: .5s;
 }
 .checkbtn{
