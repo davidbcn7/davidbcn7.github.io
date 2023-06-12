@@ -17,6 +17,13 @@ h1 {
     font-size: 70px;
 }
 
+.fade-in { animation: fadeIn 5s; }
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
 h2 {
     font-weight: 400;
     margin-top: -630px;
